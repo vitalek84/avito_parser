@@ -1,0 +1,36 @@
+{
+  "PARSE": [
+    ["NUMBER", 1415, [
+      ["7&scId=702", 10]
+    ]]
+  ],
+
+  "RESET_AUTH_USE": true,
+
+  "PYTHON_COMMAND": "python3",
+  "TESSERACT_COMMAND": "tesseract",
+
+  "WEB_HOST": "127.0.0.1",
+  "WEB_PORT": "8081",
+
+  "PROXY_MANAGER": "http://X.X.X.X/",
+  "PROXY_LIST": [
+    {
+      "host":"X.X.X.X",
+      "port":"8000",
+      "username":"login",
+      "password":"password"
+    },
+    {
+      "host":"X.X.X.X",
+      "port":"8000",
+      "username":"login",
+      "password":"password"
+    }
+  ],
+  "API": "https://alpha.stok.ru",
+  "USER_ID": 10001,
+  "TRANSLATE_TOKEN": "toke",
+  "PHONE_TOKEN": "toke",
+  "AUTH_DB": "host=x.x.x.x user=user dbname=db password=password"
+}

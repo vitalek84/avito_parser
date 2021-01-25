@@ -1,0 +1,13 @@
+numpy==1.15.0
+opencv-python==3.4.2.17
+Pillow==5.2.0
+pytesseract==0.2.4
+selenium==3.14.0
+urllib3==1.23
+aiohttp==3.4.4
+python-dateutil==2.7.3
+requests==2.21.0
+beautifulsoup4==4.6.3
+google-cloud-translate==1.4.0
+psycopg2-binary==2.8.3
+rfc5424-logging-handler==1.4.3

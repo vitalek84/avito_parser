@@ -1,0 +1,27 @@
+{
+  "PARSE": [
+    ["576d0614d53f3d80945f8f02", 1415, [
+      ["7&scId=702", 10],
+      ["7&scId=704", 10],
+      ["7&scId=705", 10],
+      ["7&scId=703", 10],
+      ["7&scId=707", 10],
+      ["7&scId=712", 10],
+      ["7&scId=706", 10],
+      ["7&scId=709", 10],
+      ["7&scId=711", 10],
+      ["7&scId=708", 10],
+      ["7&scId=710", 10]
+    ]]
+  ],
+
+  "PYTHON_COMMAND": "python3",
+  "TESSERACT_COMMAND": "tesseract",
+
+  "WEB_HOST": "0.0.0.0",
+  "WEB_PORT": "8080",
+
+  "API": "https://alpha.stok.ru",
+  "USER_ID": 10001,
+  "TRANSLATE_TOKEN": "enter your translate token"
+}
